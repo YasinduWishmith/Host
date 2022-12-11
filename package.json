@@ -13,7 +13,7 @@
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fx-layout-vue": "^1.1.0",
     "mdbvue": "^6.1.1",
     "rxjs": "^6.5.3",
